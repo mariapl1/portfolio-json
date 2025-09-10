@@ -1,0 +1,26 @@
+[
+  {
+    "Package": "Basic pack, 10 days",
+    "Description": "Fits well for small businesses or startups which need a strong foundation for their brand identity but have a limited budget.",
+    "Included Services": "Branding and logo $1,600, Social media kit $1,600",
+    "Pack, Final Price": 2990
+  },
+  {
+    "Package": "Starter pack (popular), 28 days",
+    "Description": "Ideal for growing businesses looking to strengthen their brand presence with more comprehensive visuals and a web solution.",
+    "Included Services": "Branding and logo $1,600, Social media kit $1,600, Brand manual $2,560, Landing page $1,500",
+    "Pack, Final Price": 5660
+  },
+  {
+    "Package": "Extended pack, ≈ 1.5...2 months",
+    "Description": "Perfect option for established businesses or brands seeking to refine and deepen their brand strategy across the board.",
+    "Included Services": "Branding and logo $1,600, Social media kit $1,600, Brand manual $2,560, Landing page $2,500, Lookbook / Storybook $2,240, Email template $1,280, Email signature $320, Introduction video $3,200",
+    "Pack, Final Price": 12000
+  },
+  {
+    "Package": "Product design \r\n(UI/UX)",
+    "Description": "Ongoing product design \r\nsupport with weekly \r\nsprints, reports, demos, \r\nand deliverables. ",
+    "Included Services": "Audit of the current state of the \nproducts. \nFull UI redesign of all active \nsections, screens, and states. \nComponent system setup and \ndesign system creation. \nClear visual interpretation of \n“Financial infrastructure as a \nservice” in the UI/UX. \nDelivery in Figma + \r\ndocumentation for correct \r\ndeveloper implementation. \r\nWeekly sprints with intermediate \r\nupdates and results. ",
+    "Pack, Final Price": 3600
+  }
+]
