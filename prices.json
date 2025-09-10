@@ -1,0 +1,251 @@
+{
+  "website": [
+    {
+      "Website": "Global gate (Tilda (no-code))",
+      "Industry": "Consulting",
+      "Project type": "Landing page",
+      "Time": "7 days",
+      "Cost": 1250
+    },
+    {
+      "Website": "Elemsy (Tilda (no-code))",
+      "Industry": "Education",
+      "Project type": "Landing page",
+      "Time": "10 days",
+      "Cost": 1500
+    },
+    {
+      "Website": "Bemo (Tilda (no-code))",
+      "Industry": "Finance",
+      "Project type": "Landing page",
+      "Time": "15 days",
+      "Cost": 2500
+    },
+    {
+      "Website": "4pho (Tilda (no-code))",
+      "Industry": "Food",
+      "Project type": "Landing page",
+      "Time": "15 days",
+      "Cost": 2500
+    },
+    {
+      "Website": "Growth coaching (Tilda (no-code))",
+      "Industry": "Consulting",
+      "Project type": "Landing page",
+      "Time": "15 days",
+      "Cost": 2500
+    },
+    {
+      "Website": "Insight group - Videos (Tilda (no-code))",
+      "Industry": "Video production",
+      "Project type": "Landing page",
+      "Time": "15 days",
+      "Cost": 2500
+    },
+    {
+      "Website": "Yolwise (Tilda (no-code))",
+      "Industry": "Travel",
+      "Project type": "Corporate website",
+      "Time": "1 year",
+      "Cost": "$15,000+"
+    },
+    {
+      "Website": "Smartway (Tilda (no-code))",
+      "Industry": "Travel",
+      "Project type": "Corporate website",
+      "Time": "2 years",
+      "Cost": "$30,000+"
+    },
+    {
+      "Website": "Pygma (Webflow (no-code))",
+      "Industry": "Software",
+      "Project type": "Landing page",
+      "Time": "15 days",
+      "Cost": 2500
+    },
+    {
+      "Website": "Ixora (Wordpress (code))",
+      "Industry": "Consulting",
+      "Project type": "Landing page",
+      "Time": "15 days",
+      "Cost": 2500
+    },
+    {
+      "Website": "Verb ventures (Wordpress (code))",
+      "Industry": "Finance",
+      "Project type": "Corporate website",
+      "Time": "20 days",
+      "Cost": 3500
+    },
+    {
+      "Website": "Citium (Wordpress (code))",
+      "Industry": "Finance",
+      "Project type": "Corporate website",
+      "Time": "30 days",
+      "Cost": 5000
+    },
+    {
+      "Website": "Upshift (Wordpress (code))",
+      "Industry": "Transportation",
+      "Project type": "Corporate website",
+      "Time": "60 days",
+      "Cost": 10000
+    },
+    {
+      "Website": "Bash · CRM (Custom (code))",
+      "Industry": "Software",
+      "Project type": "Landing page, CRM",
+      "Time": "0.5 year",
+      "Cost": "$10,000+"
+    },
+    {
+      "Website": "Alligator (Custom (code))",
+      "Industry": "E-commerce",
+      "Project type": "Marketplace",
+      "Time": "1 year",
+      "Cost": "$15,000+"
+    }
+  ],
+  "branding": [
+    {
+      "Component": "Branding and logo",
+      "Details and files": "3 conceptual solutions of a logo to choose from.  1 finalized and approved solution, including an animated version of a logo (for external usage, e.g. on videos).  Files: Figma, AI, EPS, JPG, PNG, SVG, PDF.",
+      "Time": "5 days",
+      "Cost": 1600
+    },
+    {
+      "Component": "Brand manual",
+      "Details and files": "≈ 20 pages: logo (main version, secondary versions, anatomy, proportions and save zones), colours, typography, tone of voice, usage (website, social media, business cards, letterhead, ads, corporate collaterals), key visuals, pattern, design system principles.  Files: Figma, PDF.",
+      "Time": "8 days",
+      "Cost": 2560
+    },
+    {
+      "Component": "Social media kit",
+      "Details and files": "Posts, reels, stories, covers, avatar images, banners, highlights, grid. Across all platforms: Instagram, Linkedin, Facebook, Twitter, Youtube, Tiktok, Pinterest, Threads, etc.  Files: Figma, JPG, PNG.",
+      "Time": "5 days",
+      "Cost": 1600
+    },
+    {
+      "Component": "Pitch deck",
+      "Details and files": "≈ 10...40 pages (depending on a client): cover; problem; solution; vision, product, technology, idea; differentiation; comparison; advantages; secret sauce; structure explained; business model; market size; unit economics; traction; utilization; revenue; projections; go to market (GTM); lifetime value (LTV); forecast; opportunity; demographic; testimonials, clients and partners; roadmap; asset light; raising, ask; team; contact us.  Content: various types of visuals, infographics, charts, illustrations, photographs, product representation, data visualization, connection with the targeted audience (investors, partners, etc.).  Files: Figma, PDF, PPT (editable), 16:9 (1600 x 900 px).",
+      "Time": "—",
+      "Cost": "$240 / page"
+    },
+    {
+      "Component": "Presentation deck",
+      "Details and files": "≈ 15 pages (depending on a client): cover, company introduction, mission and philosophy, areas of work, services, projects, events, team, conclusion and contacts, etc.  Files: Figma, PDF, PPT (editable), 16:9 (1600 x 900 px).",
+      "Time": "5 days",
+      "Cost": 1600
+    },
+    {
+      "Component": "Lookbook / Storybook",
+      "Details and files": "≈ 10 pages (depending on a client): a unique document that conveys the story of a client's business, and features the elements of personal branding of a founder, as well as personalized approach in establishing an emotional connection with target audience, investors and partners on a much deeper level. (Precursor for the founder's personal brand strategy.)  Files: Figma, PDF, PPT (editable), 16:9 (1600 x 900 px).",
+      "Time": "7 days",
+      "Cost": 2240
+    },
+    {
+      "Component": "Icon pack",
+      "Details and files": "≈ 15 icons (depending on a client).  Files: Figma.",
+      "Time": "2 days",
+      "Cost": 640
+    },
+    {
+      "Component": "Infographic pack",
+      "Details and files": "≈ 10 charts (depending on a client).  Files: Figma.",
+      "Time": "4 days",
+      "Cost": 1280
+    },
+    {
+      "Component": "Illustration pack",
+      "Details and files": "≈ 5 illustrations (depending on a client).  Files: Figma, AI, JPG, PNG.",
+      "Time": "10 days",
+      "Cost": 3200
+    },
+    {
+      "Component": "Email template",
+      "Details and files": "A single generic email template.  Files: Figma (design), Mailchimp (implementation and adjustment for editing), desktop and mobile versions.",
+      "Time": "1 day",
+      "Cost": 320
+    },
+    {
+      "Component": "A series of multiple templates (depending on a client): ",
+      "Details and files": "e. g. welcome emails (incl. waitlist invitation); newsletter emails; promotional emails; operational emails; re-engagement emails; feedback and survey emails; seasonal, holiday- and event-based emails, etc.  Files: Figma (design), Mailchimp (implementation and adjustment for editing), desktop and mobile versions. ",
+      "Time": "4 days",
+      "Cost": 1280
+    },
+    {
+      "Component": "Email signature",
+      "Details and files": "A branded email signature that is embed automatically in any emails of a client. Usually includes: a logo, personal and contact data, links.  Files: Figma, Google doc (code).",
+      "Time": "1 day",
+      "Cost": 320
+    },
+    {
+      "Component": "Business cards",
+      "Details and files": "Corporate and personal, front (information) and back (brand image) side.  Files: Figma, AI, PDF (CMYK for print), 9 x 5 cm.",
+      "Time": "0.5 day",
+      "Cost": 160
+    },
+    {
+      "Component": "Letterhead / Poster",
+      "Details and files": "A4 or U.S. letter format.  Files: Figma, Google doc (editable), PDF.",
+      "Time": "0.5 day",
+      "Cost": 160
+    },
+    {
+      "Component": "Introduction video",
+      "Details and files": "A short introduction video (the fastest way to get people know a client`s business, and an important step for future marketing activities): catchy visuals, compelling messages, creative editing, quality voice-over, upbeat music. 45...60 sec.  Files: MP4, 16:9 (1600 x 900 px) for web, and 9:16 (900 x 1600 px) for mobile.",
+      "Time": "10 days",
+      "Cost": 3200
+    },
+    {
+      "Component": "Branded collaterals",
+      "Details and files": "Souvenirs (depending on a client`s preferences): cap, chevron, cup, flag, keychain, lighter, package, pen, pencil, pin, sweater, tie, t-shirt, umbrella, watches, etc.  Files: Figma, AI, PDF (CMYK for print).",
+      "Time": "4 days",
+      "Cost": 1280
+    },
+    {
+      "Component": "Branded mascot",
+      "Details and files": "Files: Figma, JPG, PNG, MP4 (animated).",
+      "Time": "3 days",
+      "Cost": 960
+    }
+  ],
+  "packsBranding": [
+    {
+      "Package": "Basic pack, 10 days",
+      "Description": "Fits well for small businesses or startups which need a strong foundation for their brand identity but have a limited budget.",
+      "Included Services": "Branding and logo $1,600, Social media kit $1,600",
+      "Pack, Final Price": 2990
+    },
+    {
+      "Package": "Starter pack (popular), 28 days",
+      "Description": "Ideal for growing businesses looking to strengthen their brand presence with more comprehensive visuals and a web solution.",
+      "Included Services": "Branding and logo $1,600, Social media kit $1,600, Brand manual $2,560, Landing page $1,500",
+      "Pack, Final Price": 5660
+    },
+    {
+      "Package": "Extended pack, ≈ 1.5...2 months",
+      "Description": "Perfect option for established businesses or brands seeking to refine and deepen their brand strategy across the board.",
+      "Included Services": "Branding and logo $1,600, Social media kit $1,600, Brand manual $2,560, Landing page $2,500, Lookbook / Storybook $2,240, Email template $1,280, Email signature $320, Introduction video $3,200",
+      "Pack, Final Price": 12000
+    },
+    {
+      "Package": "Product design \r\n(UI/UX)",
+      "Description": "Ongoing product design \r\nsupport with weekly \r\nsprints, reports, demos, \r\nand deliverables. ",
+      "Included Services": "Audit of the current state of the \nproducts. \nFull UI redesign of all active \nsections, screens, and states. \nComponent system setup and \ndesign system creation. \nClear visual interpretation of \n“Financial infrastructure as a \nservice” in the UI/UX. \nDelivery in Figma + \r\ndocumentation for correct \r\ndeveloper implementation. \r\nWeekly sprints with intermediate \r\nupdates and results. ",
+      "Pack, Final Price": 3600
+    }
+  ],
+  "packsStartup": [
+    {
+      "Package": "Pitch deck only, 10 days (2 weeks)",
+      "Includes": "Pitch deck (≈ 12...15 pages, PDF, PPT (editable)), Social media kit for Linkedin (free)",
+      "Price": 2900
+    },
+    {
+      "Package": "Pitch deck + Landing page (popular), 20 days (4 weeks)",
+      "Includes": "Pitch deck (≈ 12...15 pages, PDF, PPT (editable)), Social media kit for Linkedin (free), Landing page (≈ 6 sections)",
+      "Price": 4490
+    }
+  ]
+}
