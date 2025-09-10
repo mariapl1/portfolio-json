@@ -1,109 +1,968 @@
 {
   "website": [
     {
-      "Website": "Global gate (Tilda (no-code))",
-      "Industry": "Consulting",
-      "Project type": "Landing page",
+      "Work": "Landing page",
+      "Platform": "Tilda",
+      "Price": 1250,
       "Time": "7 days",
-      "Cost": 1250
+      "Client": "Global gate"
     },
     {
-      "Website": "Elemsy (Tilda (no-code))",
-      "Industry": "Education",
-      "Project type": "Landing page",
+      "Work": "Landing page",
+      "Platform": "Tilda",
+      "Price": 1500,
       "Time": "10 days",
-      "Cost": 1500
+      "Client": "Elemsy"
     },
     {
-      "Website": "Bemo (Tilda (no-code))",
-      "Industry": "Finance",
-      "Project type": "Landing page",
+      "Work": "Landing page",
+      "Platform": "Tilda",
+      "Price": 2500,
       "Time": "15 days",
-      "Cost": 2500
+      "Client": "Bemo "
     },
     {
-      "Website": "4pho (Tilda (no-code))",
-      "Industry": "Food",
-      "Project type": "Landing page",
+      "Work": "Landing page",
+      "Platform": "Tilda",
+      "Price": 2500,
       "Time": "15 days",
-      "Cost": 2500
+      "Client": "4pho"
     },
     {
-      "Website": "Growth coaching (Tilda (no-code))",
-      "Industry": "Consulting",
-      "Project type": "Landing page",
+      "Work": "Landing page",
+      "Platform": "Tilda",
+      "Price": 2500,
       "Time": "15 days",
-      "Cost": 2500
+      "Client": "Growth coaching"
     },
     {
-      "Website": "Insight group - Videos (Tilda (no-code))",
-      "Industry": "Video production",
-      "Project type": "Landing page",
+      "Work": "Landing page",
+      "Platform": "Tilda",
+      "Price": 2500,
       "Time": "15 days",
-      "Cost": 2500
+      "Client": "Insight group"
     },
     {
-      "Website": "Yolwise (Tilda (no-code))",
-      "Industry": "Travel",
-      "Project type": "Corporate website",
+      "Work": "Corporate website",
+      "Platform": "Tilda",
+      "Price": "$15,000+",
       "Time": "1 year",
-      "Cost": "$15,000+"
+      "Client": "Yolwise "
     },
     {
-      "Website": "Smartway (Tilda (no-code))",
-      "Industry": "Travel",
-      "Project type": "Corporate website",
+      "Work": "Corporate website",
+      "Platform": "Tilda",
+      "Price": "$30,000+",
       "Time": "2 years",
-      "Cost": "$30,000+"
+      "Client": "Smartway"
     },
     {
-      "Website": "Pygma (Webflow (no-code))",
-      "Industry": "Software",
-      "Project type": "Landing page",
+      "Work": "Landing page",
+      "Platform": "Webflow ",
+      "Price": 2500,
       "Time": "15 days",
-      "Cost": 2500
+      "Client": "Pygma"
     },
     {
-      "Website": "Ixora (Wordpress (code))",
-      "Industry": "Consulting",
-      "Project type": "Landing page",
+      "Work": "Landing page design + developement",
+      "Platform": "Wordpress (code)",
+      "Price": 2500,
       "Time": "15 days",
-      "Cost": 2500
+      "Client": "Ixora"
     },
     {
-      "Website": "Verb ventures (Wordpress (code))",
-      "Industry": "Finance",
-      "Project type": "Corporate website",
+      "Work": "Corporate website design + developement",
+      "Platform": "Wordpress (code)",
+      "Price": 3500,
       "Time": "20 days",
-      "Cost": 3500
+      "Client": "Verb ventures"
     },
     {
-      "Website": "Citium (Wordpress (code))",
-      "Industry": "Finance",
-      "Project type": "Corporate website",
+      "Work": "Corporate website design + developement",
+      "Platform": "Wordpress (code)",
+      "Price": 5000,
       "Time": "30 days",
-      "Cost": 5000
+      "Client": "Citium"
     },
     {
-      "Website": "Upshift (Wordpress (code))",
-      "Industry": "Transportation",
-      "Project type": "Corporate website",
+      "Work": "Corporate website design + developement",
+      "Platform": "Wordpress (code)",
+      "Price": 10000,
       "Time": "60 days",
-      "Cost": 10000
+      "Client": "Upshift"
     },
     {
-      "Website": "Bash · CRM (Custom (code))",
-      "Industry": "Software",
-      "Project type": "Landing page, CRM",
+      "Work": "Landing page, CRM design + developement",
+      "Platform": "Custom (code)",
+      "Price": "$10,000+",
       "Time": "0.5 year",
-      "Cost": "$10,000+"
+      "Client": "Bash CRM"
     },
     {
-      "Website": "Alligator (Custom (code))",
-      "Industry": "E-commerce",
-      "Project type": "Marketplace",
+      "Work": "Marketplace design + developement",
+      "Platform": "Custom (code)",
+      "Price": "$15,000+",
       "Time": "1 year",
-      "Cost": "$15,000+"
+      "Client": "Alligator"
+    },
+    {
+      "Work": "Competitor, market, and target audience analysis",
+      "Platform": "Wordpress",
+      "Price": 480,
+      "Time": "3 days",
+      "Client": "AvadaPay"
+    },
+    {
+      "Work": "Web design",
+      "Platform": "Wordpress",
+      "Price": 1280,
+      "Time": "8 days",
+      "Client": "AvadaPay"
+    },
+    {
+      "Work": "Web development",
+      "Platform": "Wordpress",
+      "Price": 960,
+      "Time": "6 days",
+      "Client": "AvadaPay"
+    },
+    {
+      "Work": "Marketing analysis of the market, competitors, etc.",
+      "Platform": "Wordpress",
+      "Price": "64,000 руб.",
+      "Time": "5 days",
+      "Client": "Baum Zindech"
+    },
+    {
+      "Work": "Design",
+      "Platform": "Wordpress",
+      "Price": "192,000 руб.",
+      "Time": "15 days",
+      "Client": "Baum Zindech"
+    },
+    {
+      "Work": "Layout and technical implementation",
+      "Platform": "Wordpress",
+      "Price": "256,000 руб.",
+      "Time": "20 days",
+      "Client": "Baum Zindech"
+    },
+    {
+      "Work": "AI integration",
+      "Platform": "Wordpress",
+      "Price": "153,600 руб.",
+      "Time": "12 days",
+      "Client": "Baum Zindech"
+    },
+    {
+      "Work": "Website Redesign & Development"
+    },
+    {
+      "Work": "Home page design",
+      "Platform": "Wordpress",
+      "Price": 540,
+      "Time": "3 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Mobile money page design",
+      "Platform": "Wordpress",
+      "Price": 90,
+      "Time": "0.5 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Bank transfer payments page design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Cards payment processing page design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "E-wallet page design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Vouchers page design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Alternative payment methods page design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Dashboard design",
+      "Platform": "Wordpress",
+      "Price": 90,
+      "Time": "0.5 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Merchant back-office design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Smart routing page design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Cascading page design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Fraud prevention page design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Security page design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Blog design",
+      "Platform": "Wordpress",
+      "Price": 180,
+      "Time": "1 day",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Article page design",
+      "Platform": "Wordpress",
+      "Price": 90,
+      "Time": "0.5 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Documentation page design",
+      "Platform": "Wordpress",
+      "Price": 180,
+      "Time": "1 day",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "API documentation page design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "API reference page design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Developers hub design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Company page design",
+      "Platform": "Wordpress",
+      "Price": 90,
+      "Time": "0.5 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Team member page design",
+      "Platform": "Wordpress",
+      "Price": 90,
+      "Time": "0.5 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Careers page design",
+      "Platform": "Wordpress",
+      "Price": 180,
+      "Time": "1 day",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Job listing page design",
+      "Platform": "Wordpress",
+      "Price": 90,
+      "Time": "0.5 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Contact us page design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Privacy policy page design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Terms and conditions page design",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Error pages design (403, 404, 500, 504)",
+      "Platform": "Wordpress",
+      "Price": 45,
+      "Time": "0.25 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Wordpress deployment & frontend implementation",
+      "Platform": "Wordpress",
+      "Price": 2520,
+      "Time": "14 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "User statistics and analytics tool integration",
+      "Platform": "Wordpress",
+      "Price": 90,
+      "Time": "0.5 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Performance and SEO optimization",
+      "Platform": "Wordpress",
+      "Price": 90,
+      "Time": "0.5 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Security and privacy implementation",
+      "Platform": "Wordpress",
+      "Price": 90,
+      "Time": "0.5 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Lead generation features",
+      "Platform": "Wordpress",
+      "Price": 270,
+      "Time": "1.5 days",
+      "Client": "Dalapay"
+    },
+    {
+      "Work": "Home page design",
+      "Platform": "Webflow",
+      "Price": "Not specified",
+      "Time": "5 days",
+      "Client": "Lead Bananas"
+    },
+    {
+      "Work": "Service page design",
+      "Platform": "Webflow",
+      "Price": "Not specified",
+      "Time": "1 day",
+      "Client": "Lead Bananas"
+    },
+    {
+      "Work": "Blog design",
+      "Platform": "Webflow",
+      "Price": "Not specified",
+      "Time": "1 day",
+      "Client": "Lead Bananas"
+    },
+    {
+      "Work": "Article page design",
+      "Platform": "Webflow",
+      "Price": "Not specified",
+      "Time": "1.5 days",
+      "Client": "Lead Bananas"
+    },
+    {
+      "Work": "Customer testimonials page design",
+      "Platform": "Webflow",
+      "Price": "Not specified",
+      "Time": "1 day",
+      "Client": "Lead Bananas"
+    },
+    {
+      "Work": "About us page design",
+      "Platform": "Webflow",
+      "Price": "Not specified",
+      "Time": "1 day",
+      "Client": "Lead Bananas"
+    },
+    {
+      "Work": "Privacy policy page design",
+      "Platform": "Webflow",
+      "Price": "Not specified",
+      "Time": "0.5 days",
+      "Client": "Lead Bananas"
+    },
+    {
+      "Work": "Terms and conditions page design",
+      "Platform": "Webflow",
+      "Price": "Not specified",
+      "Time": "0.5 days",
+      "Client": "Lead Bananas"
+    },
+    {
+      "Work": "Error pages design (403, 404, 500, 504)",
+      "Platform": "Webflow",
+      "Price": "Not specified",
+      "Time": "0.5 days",
+      "Client": "Lead Bananas"
+    },
+    {
+      "Work": "UI kit and animations",
+      "Platform": "Webflow",
+      "Price": "Not specified",
+      "Time": "1.5 days",
+      "Client": "Lead Bananas"
+    },
+    {
+      "Work": "Webflow deployment and frontend implementation",
+      "Platform": "Webflow",
+      "Price": "Not specified",
+      "Time": "10 days",
+      "Client": "Lead Bananas"
+    },
+    {
+      "Work": "SEO optimization",
+      "Platform": "Webflow",
+      "Price": "Not specified",
+      "Time": "1 day",
+      "Client": "Lead Bananas"
+    },
+    {
+      "Work": "Domain, hosting, and SSL setup",
+      "Platform": "Webflow",
+      "Price": "Not specified",
+      "Time": "1.5 days",
+      "Client": "Lead Bananas"
+    },
+    {
+      "Work": "Investment Firm Website Redesign"
+    },
+    {
+      "Work": "Home page design",
+      "Platform": "Wordpress or Webflow",
+      "Price": 960,
+      "Time": "3 days",
+      "Client": "Römer Capital"
+    },
+    {
+      "Work": "Products and services page design",
+      "Platform": "Wordpress or Webflow",
+      "Price": 480,
+      "Time": "1.5 days",
+      "Client": "Römer Capital"
+    },
+    {
+      "Work": "About us page design",
+      "Platform": "Wordpress or Webflow",
+      "Price": 320,
+      "Time": "1 day",
+      "Client": "Römer Capital"
+    },
+    {
+      "Work": "News page design",
+      "Platform": "Wordpress or Webflow",
+      "Price": 480,
+      "Time": "1.5 days",
+      "Client": "Römer Capital"
+    },
+    {
+      "Work": "Disclosures page design",
+      "Platform": "Wordpress or Webflow",
+      "Price": 160,
+      "Time": "0.5 days",
+      "Client": "Römer Capital"
+    },
+    {
+      "Work": "Contact us page design",
+      "Platform": "Wordpress or Webflow",
+      "Price": 160,
+      "Time": "0.5 days",
+      "Client": "Römer Capital"
+    },
+    {
+      "Work": "UI kit, pop-ups, and error pages",
+      "Platform": "Wordpress or Webflow",
+      "Price": 320,
+      "Time": "1 day",
+      "Client": "Römer Capital"
+    },
+    {
+      "Work": "Wordpress or Webflow development",
+      "Platform": "Wordpress or Webflow",
+      "Price": 1920,
+      "Time": "6 days",
+      "Client": "Römer Capital"
+    },
+    {
+      "Work": "Home page design",
+      "Platform": "Wordpress",
+      "Price": "£540",
+      "Time": "3 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Blog design",
+      "Platform": "Wordpress",
+      "Price": "£270",
+      "Time": "1.5 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Article page design",
+      "Platform": "Wordpress",
+      "Price": "£180",
+      "Time": "1 day",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Affiliate page design",
+      "Platform": "Wordpress",
+      "Price": "£270",
+      "Time": "1.5 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "About page design",
+      "Platform": "Wordpress",
+      "Price": "£180",
+      "Time": "1 day",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Privacy policy page design",
+      "Platform": "Wordpress",
+      "Price": "£45",
+      "Time": "0.25 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Terms and conditions page design",
+      "Platform": "Wordpress",
+      "Price": "£45",
+      "Time": "0.25 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Error pages design",
+      "Platform": "Wordpress",
+      "Price": "£45",
+      "Time": "0.25 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Wordpress deployment & frontend implementation",
+      "Platform": "Wordpress",
+      "Price": "£2,160",
+      "Time": "12 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Integrations (APIs, payment buttons, etc.)",
+      "Platform": "Wordpress",
+      "Price": "£540",
+      "Time": "3 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Affiliate product functionality implementation",
+      "Platform": "Wordpress",
+      "Price": "£360",
+      "Time": "2 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "SEO optimization",
+      "Platform": "Wordpress",
+      "Price": "£180",
+      "Time": "1 day",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Domain, hosting, and SSL setup",
+      "Platform": "Wordpress",
+      "Price": "£270",
+      "Time": "1.5 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Film Media Platform Website (Revised Proposal)"
+    },
+    {
+      "Work": "Home page design",
+      "Platform": "Wordpress",
+      "Price": "£540",
+      "Time": "3 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Blog design (simplified)",
+      "Platform": "Wordpress",
+      "Price": "£180",
+      "Time": "1 day",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Affiliate functionality (basic)",
+      "Platform": "Wordpress",
+      "Price": "£180",
+      "Time": "1 day",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "About page design",
+      "Platform": "Wordpress",
+      "Price": "£180",
+      "Time": "1 day",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Privacy policy page design",
+      "Platform": "Wordpress",
+      "Price": "£45",
+      "Time": "0.25 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Terms and conditions page design",
+      "Platform": "Wordpress",
+      "Price": "£45",
+      "Time": "0.25 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Error pages design",
+      "Platform": "Wordpress",
+      "Price": "£45",
+      "Time": "0.25 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Wordpress deployment & frontend implementation",
+      "Platform": "Wordpress",
+      "Price": "£1,080",
+      "Time": "6 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Integrations (standard embeds)",
+      "Platform": "Wordpress",
+      "Price": "£360",
+      "Time": "2 days",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Affiliate functionality (using existing plug-in)",
+      "Platform": "Wordpress",
+      "Price": "£180",
+      "Time": "1 day",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Domain, hosting, and SSL setup",
+      "Platform": "Wordpress",
+      "Price": "£180",
+      "Time": "1 day",
+      "Client": "Scenescreens"
+    },
+    {
+      "Work": "Home page design",
+      "Platform": "Wordpress",
+      "Price": 720,
+      "Time": "4 days",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "About us page design",
+      "Platform": "Wordpress",
+      "Price": 180,
+      "Time": "1 day",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "Features page design",
+      "Platform": "Wordpress",
+      "Price": 180,
+      "Time": "1 day",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "Products page design",
+      "Platform": "Wordpress",
+      "Price": 360,
+      "Time": "2 days",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "Payment platform page design",
+      "Platform": "Wordpress",
+      "Price": 360,
+      "Time": "2 days",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "POS platform page design",
+      "Platform": "Wordpress",
+      "Price": 270,
+      "Time": "1.5 days",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "Communication platform page design",
+      "Platform": "Wordpress",
+      "Price": 180,
+      "Time": "1 day",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "Wallet platform page design",
+      "Platform": "Wordpress",
+      "Price": 270,
+      "Time": "1.5 days",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "Lending platform page design",
+      "Platform": "Wordpress",
+      "Price": 270,
+      "Time": "1.5 days",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "Blog design",
+      "Platform": "Wordpress",
+      "Price": 180,
+      "Time": "1 day",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "Blog article page design",
+      "Platform": "Wordpress",
+      "Price": 180,
+      "Time": "1 day",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "Contact us page design",
+      "Platform": "Wordpress",
+      "Price": 90,
+      "Time": "0.5 days",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "UI kit, pop-ups, and error pages",
+      "Platform": "Wordpress",
+      "Price": 180,
+      "Time": "1 day",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "Frontend implementation",
+      "Platform": "Wordpress",
+      "Price": 2520,
+      "Time": "14 days",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "SEO optimization",
+      "Platform": "Wordpress",
+      "Price": 360,
+      "Time": "2 days",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "Domain and hosting setup",
+      "Platform": "Wordpress",
+      "Price": 180,
+      "Time": "1 day",
+      "Client": "Unipesa"
+    },
+    {
+      "Work": "Home page design",
+      "Platform": "Wordpress",
+      "Price": 540,
+      "Time": "3 days",
+      "Client": "Velex"
+    },
+    {
+      "Work": "Company, About, Team, Mission pages",
+      "Platform": "Wordpress",
+      "Price": 540,
+      "Time": "2.5 days",
+      "Client": "Velex"
+    },
+    {
+      "Work": "Careers and Job listing pages",
+      "Platform": "Wordpress",
+      "Price": 270,
+      "Time": "1.5 days",
+      "Client": "Velex"
+    },
+    {
+      "Work": "Services and related sub-pages",
+      "Platform": "Wordpress",
+      "Price": 765,
+      "Time": "4.25 days",
+      "Client": "Velex"
+    },
+    {
+      "Work": "Sectors, Client profiles, and related sub-pages",
+      "Platform": "Wordpress",
+      "Price": 585,
+      "Time": "3.25 days",
+      "Client": "Velex"
+    },
+    {
+      "Work": "Press centre, News, Blog, and related pages",
+      "Platform": "Wordpress",
+      "Price": 720,
+      "Time": "4 days",
+      "Client": "Velex"
+    },
+    {
+      "Work": "Contacts, Search, Legal pages",
+      "Platform": "Wordpress",
+      "Price": 450,
+      "Time": "2.5 days",
+      "Client": "Velex"
+    },
+    {
+      "Work": "Wordpress deployment & frontend implementation",
+      "Platform": "Wordpress",
+      "Price": 2700,
+      "Time": "15 days",
+      "Client": "Velex"
+    },
+    {
+      "Work": "User statistics and analytics integration",
+      "Platform": "Wordpress",
+      "Price": 180,
+      "Time": "1 day",
+      "Client": "Velex"
+    },
+    {
+      "Work": "Performance and SEO optimization",
+      "Platform": "Wordpress",
+      "Price": 180,
+      "Time": "1 day",
+      "Client": "Velex"
+    },
+    {
+      "Work": "Security and privacy implementation",
+      "Platform": "Wordpress",
+      "Price": 180,
+      "Time": "1 day",
+      "Client": "Velex"
+    },
+    {
+      "Work": "Lead generation and contact forms",
+      "Platform": "Wordpress",
+      "Price": 270,
+      "Time": "1.5 days",
+      "Client": "Velex"
+    },
+    {
+      "Work": "Search functionality",
+      "Platform": "Wordpress",
+      "Price": 360,
+      "Time": "2 days",
+      "Client": "Velex"
+    },
+    {
+      "Work": "Web design for 3 websites",
+      "Platform": "Wordpress",
+      "Price": 1620,
+      "Time": "9 days",
+      "Client": "Velex"
+    },
+    {
+      "Work": "Web development for 3 websites",
+      "Platform": "Wordpress",
+      "Price": 2700,
+      "Time": "15 days",
+      "Client": "Velex"
+    },
+    {
+      "Work": "Work",
+      "Platform": "Platform",
+      "Price": "Price",
+      "Time": "Time",
+      "Client": "Client"
+    },
+    {
+      "Work": "Initial market research",
+      "Platform": "Wordpress",
+      "Price": "Not specified",
+      "Time": "0.5 week",
+      "Client": "Smart City Mortgages"
+    },
+    {
+      "Work": "Branding and logo refinement",
+      "Platform": "Wordpress",
+      "Price": "Not specified",
+      "Time": "1 week",
+      "Client": "Smart City Mortgages"
+    },
+    {
+      "Work": "Landing page, SEO, and lead generation",
+      "Platform": "Wordpress",
+      "Price": "Not specified",
+      "Time": "2 weeks",
+      "Client": "Smart City Mortgages"
+    },
+    {
+      "Work": "Social media assets",
+      "Platform": "Wordpress",
+      "Price": "Not specified",
+      "Time": "0.5 week",
+      "Client": "Smart City Mortgages"
+    },
+    {
+      "Work": "Website Maintenance & Support"
+    },
+    {
+      "Work": "Monthly support retainer",
+      "Platform": "Wordpress or Webflow",
+      "Price": "€1,600 / month",
+      "Time": "40 hours / month",
+      "Client": "Römer Capital"
     }
   ],
   "branding": [
