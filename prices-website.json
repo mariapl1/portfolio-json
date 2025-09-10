@@ -1,0 +1,107 @@
+[
+  {
+    "Website": "Global gate (Tilda (no-code))",
+    "Industry": "Consulting",
+    "Project type": "Landing page",
+    "Time": "7 days",
+    "Cost": 1250
+  },
+  {
+    "Website": "Elemsy (Tilda (no-code))",
+    "Industry": "Education",
+    "Project type": "Landing page",
+    "Time": "10 days",
+    "Cost": 1500
+  },
+  {
+    "Website": "Bemo (Tilda (no-code))",
+    "Industry": "Finance",
+    "Project type": "Landing page",
+    "Time": "15 days",
+    "Cost": 2500
+  },
+  {
+    "Website": "4pho (Tilda (no-code))",
+    "Industry": "Food",
+    "Project type": "Landing page",
+    "Time": "15 days",
+    "Cost": 2500
+  },
+  {
+    "Website": "Growth coaching (Tilda (no-code))",
+    "Industry": "Consulting",
+    "Project type": "Landing page",
+    "Time": "15 days",
+    "Cost": 2500
+  },
+  {
+    "Website": "Insight group - Videos (Tilda (no-code))",
+    "Industry": "Video production",
+    "Project type": "Landing page",
+    "Time": "15 days",
+    "Cost": 2500
+  },
+  {
+    "Website": "Yolwise (Tilda (no-code))",
+    "Industry": "Travel",
+    "Project type": "Corporate website",
+    "Time": "1 year",
+    "Cost": "$15,000+"
+  },
+  {
+    "Website": "Smartway (Tilda (no-code))",
+    "Industry": "Travel",
+    "Project type": "Corporate website",
+    "Time": "2 years",
+    "Cost": "$30,000+"
+  },
+  {
+    "Website": "Pygma (Webflow (no-code))",
+    "Industry": "Software",
+    "Project type": "Landing page",
+    "Time": "15 days",
+    "Cost": 2500
+  },
+  {
+    "Website": "Ixora (Wordpress (code))",
+    "Industry": "Consulting",
+    "Project type": "Landing page",
+    "Time": "15 days",
+    "Cost": 2500
+  },
+  {
+    "Website": "Verb ventures (Wordpress (code))",
+    "Industry": "Finance",
+    "Project type": "Corporate website",
+    "Time": "20 days",
+    "Cost": 3500
+  },
+  {
+    "Website": "Citium (Wordpress (code))",
+    "Industry": "Finance",
+    "Project type": "Corporate website",
+    "Time": "30 days",
+    "Cost": 5000
+  },
+  {
+    "Website": "Upshift (Wordpress (code))",
+    "Industry": "Transportation",
+    "Project type": "Corporate website",
+    "Time": "60 days",
+    "Cost": 10000
+  },
+  {
+    "Website": "Bash · CRM (Custom (code))",
+    "Industry": "Software",
+    "Project type": "Landing page, CRM",
+    "Time": "0.5 year",
+    "Cost": "$10,000+"
+  },
+  {
+    "Website": "Alligator (Custom (code))",
+    "Industry": "E-commerce",
+    "Project type": "Marketplace",
+    "Time": "1 year",
+    "Cost": "$15,000+"
+  }
+]
