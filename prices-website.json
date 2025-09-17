@@ -154,9 +154,6 @@
     "Client": "Baum Zindech"
   },
   {
-    "Work": "Website Redesign & Development"
-  },
-  {
     "Work": "Home page design",
     "Platform": "Wordpress",
     "Price": 540,
@@ -919,13 +916,6 @@
     "Client": "Velex"
   },
   {
-    "Work": "Work",
-    "Platform": "Platform",
-    "Price": "Price",
-    "Time": "Time",
-    "Client": "Client"
-  },
-  {
     "Work": "Initial market research",
     "Platform": "Wordpress",
     "Price": "Not specified",
@@ -952,9 +942,6 @@
     "Price": "Not specified",
     "Time": "0.5 week",
     "Client": "Smart City Mortgages"
-  },
-  {
-    "Work": "Website Maintenance & Support"
   },
   {
     "Work": "Monthly support retainer",
