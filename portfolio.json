@@ -124,6 +124,10 @@
     "Design Files": "https://www.figma.com/design/EBxVHhR6uK8F8BK4QIOQI4/Carloson--website-2.0?node-id=0-1&p=f&t=wQ43hNjo7ABEdOss-0  (Website [RU])"
   },
   {
+    "Project Name": "Capital Minds",
+    "Branding Materials": "https://www.figma.com/design/wfkqTzBeGHwUEoBT4fehZZ/Uprising--portfolio--Q3-2025--demo-?node-id=2001-21539&t=kztip24XE7JEmG1D-0 (Branding and marketing materials)"
+  },
+  {
     "Project Name": "Citium Wealth",
     "General Info": "Wealth management firm.",
     "Client Problem": "Needed a corporate website that was minimalist, professional, aligned with branding, and reflected company values.",
@@ -411,8 +415,8 @@
     "Year": 2024,
     "Live Website": "https://www.pygma.me/",
     "Branding Materials": "https://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=1-99 (Brand Manual)\nhttps://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=132-1053 (Letterhead)\nhttps://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=2337-189 (Email templates for Mailchimp)",
-    "Design Files": "https://www.figma.com/design/UWs2JPtmICnpEhZ9jutXcm/Pygmalion--application-2.0?node-id=5346-51836   (App UI/UX files)\nhttps://www.figma.com/design/bFDgeIO9cAbBBM2RVoKxr3/Pygmalion--website?node-id=1133-629 (Website)",
-    "Social Media & Ads templates": "https://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=111-1246 (SMM kit)\nhttps://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=207-27 (Social media posts templates)\nhttps://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=1441-2134 (Banner ad creatives)\nhttps://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=1677-22 (Banner ad creatives)\nhttps://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=1633-198  (Banner ad creatives)\nhttps://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=2512-222 (Banner ad creatives)",
+    "Design Files": "https://www.figma.com/design/wfkqTzBeGHwUEoBT4fehZZ/Uprising--portfolio--Q3-2025--demo-?node-id=2064-2719 (App UI/UX files)\nhttps://www.figma.com/design/bFDgeIO9cAbBBM2RVoKxr3/Pygmalion--website?node-id=1133-629 (Website)",
+    "Social Media & Ads templates": "https://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=111-1246 (SMM kit)\nhttps://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=207-27 (Social media templates)\nhttps://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=1441-2134 (Banner ad creatives)\nhttps://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=1677-22 (Banner ad creatives)\nhttps://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=1633-198  (Banner ad creatives)\nhttps://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=2512-222 (Banner ad creatives)",
     "Case Study": "https://drive.google.com/file/d/1E2gfq6oYFDesVZBDwms2UW-PUYQKiXP4/view  (all Pygma work case study)",
     "Other": "https://www.figma.com/design/wEs9xGljRVt2KkxoK72gOW/Pygmalion--branding?node-id=180-2 (Presentation template)\nhttps://www.linkedin.com/posts/alex-belikov_ai-design-marketing-activity-7300561663873683456-wFN2 (Introduction video)"
   },
@@ -442,17 +446,6 @@
     "Aesthetic": "Clean, friendly, professional, red & white"
   },
   {
-    "Project Name": "Römer Capital",
-    "General Info": "Boutique investment firm offering financial solutions, prime brokerage, treasury services, and wealth management globally.",
-    "Client Problem": "Needed a website redesign to reflect a modern, fresh, and professional look, appealing to its target audience.",
-    "My Solution": "Website redesign and web production, including implementation of Google Analytics for data insights. Ongoing website maintenance and support.",
-    "Key Achievement / Result": "Successfully created a professional and modern website for the investment firm, meeting requirements for user behavior tracking and content management.",
-    "Categories": "Web Design, UI/UX, Financial Services, Website Maintenance",
-    "Aesthetic": "Professional, clean, modern",
-    "Tools Used": "Figma, WordPress",
-    "Live Website": "https://roemercapital.com/"
-  },
-  {
     "Project Name": "Schlumberger",
     "General Info": "Technology company for the energy industry.",
     "Client Problem": "Needed to attract software engineering talent and highlight career opportunities within the energy industry.",
@@ -474,7 +467,7 @@
     "Year": 2025,
     "Live Website": "https://smartcitymortgages.co.uk",
     "Branding Materials": "https://drive.google.com/file/d/1aM3MqwZAlohuju2I1A7G0i4JLqiInH17/view?usp=sharing  (Branding)\nhttps://www.figma.com/design/USe2WNvxk9qF0bQl6MRAd3/Smartcity-group--branding?node-id=103-38 (Brand manual)",
-    "Design Files": "https://www.figma.com/design/I75ersLHx1b6RdC5JTqzM4/Smartcity-group--website?node-id=295-288&p=f&t=ZWoUxVs9S9ao53qK-0  (Website)",
+    "Design Files": "https://www.figma.com/design/I75ersLHx1b6RdC5JTqzM4/Smartcity-group--website?node-id=295-288&p=f&t=ZWoUxVs9S9ao53qK-0  (Website)\nhttps://www.figma.com/design/wfkqTzBeGHwUEoBT4fehZZ/Uprising--portfolio--Q3-2025--demo-?node-id=2001-32282 (brand + marketing + web together)",
     "Social Media & Ads templates": "https://www.figma.com/design/USe2WNvxk9qF0bQl6MRAd3/Smartcity-group--branding?node-id=251-551&p=f&t=rKarv6HHkxL8Zdip-0 (Social media assets: covers, profile pictures, branding, multiple post templates for LinkedIn and Facebook)\nhttps://www.figma.com/design/USe2WNvxk9qF0bQl6MRAd3/Smartcity-group--branding?node-id=316-2167 (Multiple banner ad templates)"
   },
   {
@@ -658,7 +651,10 @@
   },
   {
     "Project Name": "All our major Pitch Deck works",
-    "General Info": "A folder with our winning Pitch decks, all together",
+    "General Info": "A folder with our major Pitch decks, all together",
     "Pitch Deck": "https://drive.google.com/drive/folders/1sFHYYOXS_m0eqzausOqCz0wbLHfthNeN?usp=drive_link"
+  },
+  {
+    "Project Name": "Sly Nerd"
   }
 ]
