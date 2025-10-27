@@ -185,7 +185,6 @@
     "Aesthetic": "Clean, modern, light purple, intuitive",
     "Tools Used": "Figma",
     "Year": 2022,
-    "Live Website": "https://elemsy.io/",
     "Branding Materials": "https://www.figma.com/design/NuFG9TtO9jV8rsQDshpNoN/Elemsy--branding?node-id=2-375  (Branding and logo)",
     "Design Files": "https://www.figma.com/design/NuFG9TtO9jV8rsQDshpNoN/Elemsy--branding?node-id=607-3 (Website)",
     "Case Study": "https://www.instagram.com/belikov.design/p/DHBhTzbIdLh/?img_index=1  (Instagram post about the case)"
@@ -291,7 +290,9 @@
     "Categories": "Education, Online Platform, Web Design, UI/UX, Graphic Design",
     "Aesthetic": "Clean, structured, professional, white & grey with blue accents",
     "Tools Used": "Figma",
-    "Year": 2020
+    "Year": 2020,
+    "Design Files": "https://drive.google.com/file/d/1ytKgd4R6X8fWaPKCJ6i0CYcISlk8E1RL/view?usp=sharing (Intefrace snippet, filtering feature)\nhttps://drive.google.com/file/d/1Xbe6UKLYmgY1BaW7usBg8OdmvAHAsjEu/view?usp=sharing (Intefrace snippet, filtering feature, mobile)\nhttps://drive.google.com/file/d/11DdgvD8V6HKH6stu_HOlqbwtKY-IBy_t/view?usp=sharing (Interface snippet, adaptivity)",
+    "Other": "https://drive.google.com/file/d/1z_eOdctsCdOkl2e4flvWA7NRX2GiJda2/view?usp=sharing   (Interface animation snippet)"
   },
   {
     "Project Name": "Insight Group",
@@ -444,6 +445,22 @@
     "Key Achievement / Result": "Created an effective online platform that helps businesses go digital, providing useful information and product selection for online operations.",
     "Categories": "Web Design, UI/UX, SME Support, Graphic Design, Education",
     "Aesthetic": "Clean, friendly, professional, red & white"
+  },
+  {
+    "Project Name": "Revenanas (Leadbananas)",
+    "General Info": "A Netherlands-based startup providing Go-to-Market (GTM) and Revenue Operations (RevOps) orchestration services for B2B companies. They help businesses accelerate growth through AI-driven lead qualification, sales automation, and scalable revenue strategies.",
+    "Client Problem": "The client, initially named Leadbananas, required a comprehensive brand identity and a professional website to launch their GTM & RevOps Orchestration Partner services. They needed to establish a strong digital presence to attract B2B clients and effectively communicate their value proposition.",
+    "My Solution": "Executed a full rebranding from Leadbananas to Revenanas, including logo design, a detailed brand manual, and social media assets. Designed and developed a multi-page, CMS-driven website in Webflow, featuring complex custom animations, dedicated pages for services, blog, and customer testimonials. Managed the project through iterative feedback loops to align with the client's vision.",
+    "Key Achievement / Result": "Successfully launched a polished, modern, and scalable website on Webflow, complete with a full brand identity. Delivered a comprehensive package including the live site, a brand manual, social media templates, and business card designs, enabling the client to make a strong market entrance.",
+    "Categories": "Branding, Logo Design, Web Design, UI/UX, Web Development, Graphic Design, Social Media",
+    "Aesthetic": "Modern, clean, minimalist, professional. A sophisticated palette of dark blue, olive green, and a vibrant orange accent creates a professional yet energetic tech aesthetic.",
+    "Tools Used": "Figma, Webflow, Adobe Illustrator, Slack",
+    "Year": 2025,
+    "Live Website": "https://www.revenanas.com/ ",
+    "Branding Materials": "https://www.figma.com/design/ZDapex08idPXwftHSVAoIZ/Revenanas--website?node-id=2070-884  (Brand manual)\nhttps://www.figma.com/design/ZDapex08idPXwftHSVAoIZ/Revenanas--website?node-id=1452-2 (Branding and logo)",
+    "Design Files": "https://www.figma.com/design/ZDapex08idPXwftHSVAoIZ/Revenanas--website?node-id=1452-1051  (Website)",
+    "Social Media & Ads templates": "https://drive.google.com/file/d/1mNdyyz0SM5OQzUCFl0WlkJK0qk4y9zdF/view?usp=drive_link (Social media post motion design)\nhttps://www.figma.com/design/ZDapex08idPXwftHSVAoIZ/Revenanas--website?node-id=2240-485 (social media post templates and other assets)",
+    "Other": "https://www.figma.com/design/ZDapex08idPXwftHSVAoIZ/Revenanas--website?node-id=2699-36 (Event roll-up)"
   },
   {
     "Project Name": "Schlumberger",
