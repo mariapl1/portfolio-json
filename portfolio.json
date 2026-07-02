@@ -463,20 +463,21 @@
     "Design Files": "https://www.figma.com/design/Qalkvm5hHiIJc1Wgs3h617/Schlumberger--website?node-id=131-2  (Website)"
   },
   {
-    "Project Name": "Smartcity",
+    "Project Name": "Smartcity Mortgage",
     "General Info": "Mortgage and protection advisory firm operating in the United Kingdom.",
-    "Client Problem": "The firm needed to modernize its brand and establish a strong digital presence to attract a younger demographic of first-time homebuyers and young professionals. Their existing branding was outdated, and they lacked an effective strategy for online lead generation.",
-    "My Solution": "Executed a full rebranding, including a logo refresh, new typography, and a modern color palette. Developed and launched a new, multilingual, SEO-optimized website with a blog and a mortgage calculator. Established and created content for their social media channels (LinkedIn and Facebook) to engage the target audience and drive traffic.",
-    "Key Achievement / Result": "Successfully transformed the client's brand into a modern, professional, and approachable identity. Delivered a comprehensive digital platform (website and social media) tailored to their target audience, positioning them to effectively generate online leads and compete in the digital space.",
+    "Client Problem": "The firm needed to modernize its brand and establish a strong digital presence to attract a younger demographic of first-time homebuyers and young professionals. Their existing branding was outdated, and they lacked an effective strategy for online lead generation. As the engagement evolved, the challenge expanded beyond branding and website launch into ongoing marketing support: improving search visibility, building SEO-oriented content, expanding service pages, and turning the website into a more reliable lead-generation channel.",
+    "My Solution": "Executed a full rebranding, including a logo refresh, new typography, and a modern color palette. Developed and launched a new, multilingual, SEO-optimized website with a blog and a mortgage calculator. Established and created content for their social media channels (LinkedIn and Facebook) to engage the target audience and drive traffic.\nLater, we expanded support into ongoing website and marketing work: creating SEO-oriented blog articles and resource content, preparing article drafts and adaptation materials, supporting blog formatting and publishing workflows, designing and updating article/page layouts in Figma, and developing additional website sections and service pages aligned with lead generation goals. We also continued supporting social and content packaging around the account.",
+    "Key Achievement / Result": "Successfully transformed the client's brand into a modern, professional, and approachable identity. Delivered a comprehensive digital platform (website and social media) tailored to their target audience, positioning them to effectively generate online leads and compete in the digital space.\nThe work later expanded into ongoing SEO and content support, including blog/article production, resource-page growth, and new website sections designed to strengthen discoverability and conversion over time.",
     "Categories": "Branding, Web Design, UI/UX, Web Development, SEO, Content Creation, SMM",
     "Aesthetic": "Modern, vibrant, approachable, purple & green",
     "Tools Used": "Figma, WordPress, AI Tools (ChatGPT, Midjourney)",
     "Year": 2025,
     "Live Website": "https://smartcitymortgages.co.uk",
     "Branding Materials": "https://drive.google.com/file/d/1aM3MqwZAlohuju2I1A7G0i4JLqiInH17/view?usp=sharing  (Branding)\nhttps://www.figma.com/design/USe2WNvxk9qF0bQl6MRAd3/Smartcity-group--branding?node-id=103-38 (Brand manual)",
-    "Design Files": "https://www.figma.com/design/I75ersLHx1b6RdC5JTqzM4/Smartcity-group--website?node-id=295-288&p=f&t=ZWoUxVs9S9ao53qK-0  (Website)\nhttps://www.figma.com/design/wfkqTzBeGHwUEoBT4fehZZ/Uprising--portfolio--Q3-2025--demo-?node-id=2001-32282 (brand + marketing + web together)",
+    "Design Files": "https://www.figma.com/design/I75ersLHx1b6RdC5JTqzM4/Smartcity-group--website?node-id=295-288&p=f&t=ZWoUxVs9S9ao53qK-0  (Website)\nhttps://www.figma.com/design/wfkqTzBeGHwUEoBT4fehZZ/Uprising--portfolio--Q3-2025--demo-?node-id=2001-32282 (brand + marketing + web together)\nhttps://www.figma.com/design/I75ersLHx1b6RdC5JTqzM4/Smart-city-mortgages--website?node-id=942-1807  (Website / seo article design environment)",
     "Social Media & Ads templates": "https://www.figma.com/design/USe2WNvxk9qF0bQl6MRAd3/Smartcity-group--branding?node-id=251-551&p=f&t=rKarv6HHkxL8Zdip-0 (Social media assets: covers, profile pictures, branding, multiple post templates for LinkedIn and Facebook)\nhttps://www.figma.com/design/USe2WNvxk9qF0bQl6MRAd3/Smartcity-group--branding?node-id=316-2167 (Multiple banner ad templates)",
-    "Case Study": "https://youtu.be/dl0sErTJj40?si=KNenQPiYU56XdDSf (Loom-style video about the project)"
+    "Case Study": "https://youtu.be/dl0sErTJj40?si=KNenQPiYU56XdDSf (Loom-style video about the project)",
+    "Other": "https://smartcitymortgages.co.uk/blog/  (Blog)\nhttps://smartcitymortgages.co.uk/resources/  (Resources hub)\nhttps://smartcitymortgages.co.uk/blog/mortgage-deposit-guide-2026-how-much-you-need-how-to-save-get-better-rates/  (SEO blog article example)\n"
   },
   {
     "Project Name": "Smartway",
@@ -747,8 +748,8 @@
     "Tools Used": "Figma, Generative AI",
     "Year": 2025,
     "Live Website": "https://velexadvisory.com/",
-    "Branding Materials": "https://drive.google.com/file/d/1OsxOKnZYlv76p5xO7eYNGsEJfJ6FL-AP/view?usp=sharing (Site design examples)",
-    "Design Files": "https://www.figma.com/design/szIkaQ80R8rxhK5qiOe6yq/Velex-advisory--website?node-id=2013-26&t=IvJsSzPkl26BLDnP-1 (Design files Figma)"
+    "Branding Materials": "https://drive.google.com/file/d/1OsxOKnZYlv76p5xO7eYNGsEJfJ6FL-AP/view?usp=sharing  (Site design examples)",
+    "Design Files": "https://www.figma.com/design/wfkqTzBeGHwUEoBT4fehZZ/Uprising--portfolio--Q1-2026--demo-?node-id=2182-1947  (Design files Figma)"
   },
   {
     "Project Name": "Onaidocs",
@@ -759,7 +760,10 @@
     "Categories": "SaaS, Web Design, UI/UX, Product Marketing, Information Architecture",
     "Aesthetic": "Swiss Style, minimalist, structured, corporate, clarity-focused",
     "Tools Used": "Figma, Tilda, Adobe Creative Suite, Jitter",
-    "Year": 2025
+    "Year": 2025,
+    "Live Website": "https://onaidocs.kz",
+    "Design Files": "https://www.figma.com/design/De4z1DQzHVNDpouvpnpWss/Onaidocs--website?node-id=374-176   (Website)",
+    "Case Study": "https://www.behance.net/gallery/251547649/A-Strategic-Digital-Ecosystem-for-OnaiDocs (Case study)"
   },
   {
     "Project Name": "Zowie AI",
@@ -929,5 +933,168 @@
     "Tools Used": "Figma",
     "Year": 2026,
     "Pitch Deck": "https://www.figma.com/design/2E8AoShVL5sehziQKAEHI6/Giza--branding?node-id=24-2 (The presentation) "
+  },
+  {
+    "Project Name": "Elkwater Capital",
+    "General Info": "US investment firm focused on publicly traded BDC investment strategies.",
+    "Client Problem": "Elkwater Capital needed to redesign its existing marketing deck into a sharper, more presentation-ready investor pitch deck. The original materials were too static and text-heavy for live delivery, lacked sufficient narrative clarity, and needed a more polished visual system to convey institutional credibility.",
+    "My Solution": "Redesigned the pitch deck structure from the ground up for live pitching in a flip-through format. Simplified dense content for verbal delivery, rebuilt slide hierarchy and narrative flow, and designed cleaner layouts with stronger typography, spacing, and alignment. Created custom visual treatment for charts, metrics, comparisons, and other data-heavy slides while preserving the client’s existing brand direction through a modern refresh.",
+    "Key Achievement / Result": "Delivered a polished investor deck that transformed dense legacy materials into a clearer, more persuasive presentation for introductory investor conversations. The final result strengthened Elkwater Capital’s institutional positioning and gave the client a more confident, visually refined fundraising tool.",
+    "Categories": "Pitch Deck, Investor Presentation, Financial Services, Data Visualization, Graphic Design",
+    "Aesthetic": "Institutional, polished, modern, minimal, credible, presentation-focused",
+    "Tools Used": "Figma, PDF, PowerPoint",
+    "Year": 2026,
+    "Pitch Deck": "https://www.figma.com/design/QMuorBdWQtT8XI8JEVAIZ4/Elkwater-Capital--branding?node-id=56-2   (pitch deck)"
+  },
+  {
+    "Project Name": "Hyperhug",
+    "General Info": "Premium web and brand design project for a Cyprus-based game and entertainment client. The work combined identity development with the creation of a high-end landing page for a gaming-related product, designed to feel cinematic, visually immersive, and technically impressive through layered animation and premium motion design.",
+    "Client Problem": "Needed more than a basic promo site: they required a polished digital presence that could communicate the project with a premium, contemporary feel suitable for the gaming and entertainment space. The challenge was to build both a coherent visual identity and a landing page experience strong enough to stand out through atmosphere, transitions, and custom animation rather than relying on a conventional static layout.",
+    "My Solution": "Developed the branding direction and brandbook materials, then designed and developed with custom HTML a premium landing page with a strong emphasis on animation, smooth transitions, visual transformation, and motion-led storytelling. The website direction focused on combining a sleek, high-end interface with a more immersive presentation style, so the final experience would feel elevated, dynamic, and memorable.",
+    "Key Achievement / Result": "Delivered a cohesive premium identity system together with an animation-heavy landing page direction that became one of our stronger recent website cases and a clear example of the agency’s ability to create custom, premium web experiences for clients in gaming and entertainment.",
+    "Categories": "Branding & Logo, Brand Identity, Brandbook, Landing Page, Web Design, Motion-Driven Website, Gaming & Entertainment",
+    "Aesthetic": "Premium, cinematic, immersive, polished, motion-rich, high-end",
+    "Tools Used": "Figma, custom HTML",
+    "Year": 2026,
+    "Live Website": "https://hyperhug.com/",
+    "Branding Materials": "https://www.figma.com/design/wfkqTzBeGHwUEoBT4fehZZ/Uprising--portfolio--Q1-2026--demo-?node-id=2196-7615",
+    "Design Files": "https://www.figma.com/design/0Il0Ehzfo6lilf62xvsPCD/Hyperhug--website?node-id=0-1&p=f&t=nOohSncCowy2v87P-0   (Website)",
+    "Case Study": "https://www.figma.com/design/aKu80zDMjatZjdUfjXk0zZ/Uprising--promotion--Dribbble--2.0?node-id=5576-2691&t=2rzNYBnJQ0WWC2XM-1 "
+  },
+  {
+    "Project Name": "Hyperhug: Oxide Survival Iland",
+    "General Info": "in progress. Creative concept project for a Cyprus-based game-related product within the Hyperhug direction. The scope centered on building a strong visual concept for Oxide Survival Island, grounded in the game’s lore, worldbuilding, and overall creative identity.",
+    "Client Problem": "The project needed a clear and compelling creative direction for a game-focused experience, but the team first had to synthesize a large amount of lore, wiki material, and input from game designers before a strong concept could be shaped.",
+    "My Solution": "Built the work around deep immersion into the project’s universe: reviewing the lore, structuring the wiki and source materials, summarizing calls with the game designers, and translating that foundation into an initial creative concept. The approach focused on establishing a coherent visual vision before pushing further into production.",
+    "Key Achievement / Result": "The team moved the project from raw narrative and reference materials toward a defined conceptual direction, with a first creative vision prepared for presentation. Internally, the project was treated as a high-priority active engagement and progressed through structured concept development.",
+    "Categories": "Creative Direction, Visual Concept, Game Design Support, Branding Exploration",
+    "Aesthetic": "Immersive, worldbuilding-driven, concept-led, atmospheric",
+    "Tools Used": "Figma",
+    "Year": 2026
+  },
+  {
+    "Project Name": "Orha",
+    "General Info": "in progress. Premium spiritual app for the Spanish-speaking Latin American market. The product includes an interactive Bible and four AI companions.",
+    "Client Problem": "The client needed a strong premium visual direction and product design for a spiritually oriented mobile experience, including onboarding, core app screens, and a consistent atmosphere across multiple AI-guided journeys.",
+    "My Solution": "We developed the app’s branding direction and creative exploration, then designed the core product experience in Figma. Scope included onboarding, home screen states, Bible experience, four guided conversation flows, “Tu Camino” journey screens, consent flow, trial/paywall, optional Face ID flow, and crisis-support modals. The work also included moodboarding, visual concepting, and preparation of final design for handoff to development.",
+    "Key Achievement / Result": "Delivered the final ORHA design ready for development, with the product structure, major app flows, and premium visual language defined. ",
+    "Categories": "Branding, Mobile App Design, UI/UX, Creative Direction, Product Design",
+    "Aesthetic": "Premium, cinematic, editorial, atmospheric, spiritual",
+    "Tools Used": "Figma",
+    "Year": 2026,
+    "Design Files": "https://www.figma.com/design/kTglvhbcZ705B1mZKKERJd/Orha--application--presentation-?node-id=0-1  (Moodboards) \nhttps://www.figma.com/design/kTglvhbcZ705B1mZKKERJd/Orha--application--presentation-?node-id=2203-2 (ongoing UI/UX)"
+  },
+  {
+    "Project Name": "Plentific",
+    "General Info": "in progress",
+    "Year": 2026
+  },
+  {
+    "Project Name": "Presh",
+    "General Info": "in progress",
+    "Year": 2026
+  },
+  {
+    "Project Name": "Saply",
+    "General Info": "Simple brand refresh project for a Belgium-based SaaS company. The work focused on updating the brand logo for a cleaner, more polished digital presence.",
+    "Client Problem": "The client needed a light brand refresh to improve the visual quality of the company’s identity and sharpen how the product appeared across key digital touchpoints.",
+    "My Solution": "Refined the Saply brand with a focus on the logo and favicon, delivering a cleaner and more consistent visual base that could support further marketing and product assets.",
+    "Key Achievement / Result": "Completed the Saply brand refresh and finalized the core identity updates, with the logo and favicon specifically noted as successful outcomes. The project also opened clear upsell opportunities for LinkedIn templates, sales collateral, and plugin/UI polish.",
+    "Categories": "Brand Refresh, Branding & Logo, SaaS",
+    "Aesthetic": "Clean, polished, modern, digital-first",
+    "Tools Used": "Figma",
+    "Year": 2026,
+    "Branding Materials": "https://www.figma.com/design/XpYxxG6s9VTFpa6tPwEyHj/Saply.ai--logo-design?node-id=109-2 (Logo)"
+  },
+  {
+    "Project Name": "Tailory",
+    "General Info": "in progress. Premium dog care brand and Shopify-based e-commerce store. The brand positions itself as “affordable luxury” and draws visual inspiration from Aesop, Le Labo, and Loewe.",
+    "Client Problem": "The client needed a premium online store design that would translate an existing brand identity, packaging, and early landing materials into a full Shopify website. The solution had to balance strong visual presentation with Shopify’s real technical constraints, multilingual support, and practical long-term manageability.",
+    "My Solution": "designed the e-commerce website in Figma for desktop and mobile, with support for English and French. The work included Shopify-specific research, design system setup based on the brand book, moodboarding, homepage exploration, and design of key commerce pages including Home, Shop, Product page, and product detail structures. We also adapted the visual direction to platform limitations, replaced unsupported fonts where needed, and built the design around realistic implementation and future content management.",
+    "Key Achievement / Result": "Delivered a premium Shopify website direction aligned with the brand’s luxury positioning while keeping the system practical for implementation, editing, and further development. Presented key pages to the client, including Home, Shop, and Product page, and established a scalable design foundation for the rest of the store.",
+    "Categories": "E-commerce, Shopify, Web Design, UI/UX, Design System",
+    "Aesthetic": "Premium, minimal, refined, editorial, accessible luxury",
+    "Tools Used": "Figma, Shopify",
+    "Year": 2026,
+    "Design Files": " https://www.figma.com/design/yDh8cb63xNRllmzs0D9Qdc/Tailory--website--presentation-?node-id=2050-136 (Ongoing web design)"
+  },
+  {
+    "Project Name": "Velex Investments",
+    "General Info": "Corporate website project for a UAE-based investment business within the Velex group. The work focused on creating a premium, structured digital presence for an investment-focused entity while keeping visual continuity with the broader Velex brand ecosystem.",
+    "Client Problem": "The client needed a distinct website for Velex Investments that would feel consistent with Velex Advisory, but clearer and more tailored to investment-focused communication. The challenge was to structure complex business information, investment directions, portfolio-related content, and team presentation in a way that felt credible, concise, and professional for investors and institutional audiences.",
+    "My Solution": "Designed the website direction in Figma and Webflow, starting from the Velex visual base we built before and adapting it into a more investment-specific product. Kept key brand elements such as typography, grid logic, and overall tone, while reworking page sections, color usage, and content hierarchy. The work also included content simplification, restructuring of verticals and portfolio-related sections, refinement of team bios, mobile adjustments, and parallel preparation for Webflow development with CMS functionality.",
+    "Key Achievement / Result": "Delivered a near-complete corporate website system for Velex Investments, with the design reaching an advanced stage and moving into parallel Webflow build. The final direction strengthened clarity, status, and usability while preserving brand continuity across the Velex group.",
+    "Categories": "Corporate Website, Web Design and Development, UI/UX, Investment, Financial Services",
+    "Aesthetic": "Premium, corporate, structured, modern, trustworthy",
+    "Tools Used": "Figma, Webflow",
+    "Year": 2026,
+    "Live Website": "https://velexinvestments.com",
+    "Design Files": "https://www.figma.com/design/BQI91OVdcUoEylz5lcdJ5P/Velex-investments--website?node-id=1392-57 (Website)"
+  },
+  {
+    "Project Name": "Wize",
+    "General Info": "Branding project for a B2B service focused on business events and employee training. The engagement covered the creation of the brand from an early-stage product foundation, including naming, visual identity, brand manual, presentation materials, social media assets, and banner directions for website usage.",
+    "Client Problem": "The client had a clear understanding of the product itself, but did not yet have a name or a coherent visual language that could position the service correctly. The challenge was to create a brand that would feel corporate enough for B2B communication while still remaining light, modern, and approachable for presentation, marketing, and digital use.",
+    "My Solution": "Developed the Wize naming through a structured naming methodology, then built the visual identity system around it. Created branding concepts, selected and refined the strongest directions, and expanded the chosen system into a brand manual, presentation slides, social media posts, logo files, and website banner concepts. As the client’s vision evolved during the process, the visual system was reworked and adapted to a new palette while preserving consistency and overall brand logic.",
+    "Key Achievement / Result": "Delivered a complete brand foundation for the product, from naming to brand manual, with assets already used in presentations, social media, and on the website. One of the notable outcomes was successfully steering the project through changing client expectations and rebuilding the system into a final direction that balanced corporate credibility with visual lightness.",
+    "Categories": "Naming, Branding & Logo, Brand Identity, Brand Manual, Presentation Design, Social Media Assets, Website Banners, B2B",
+    "Aesthetic": "Corporate, modern, clean, light, structured, approachable",
+    "Tools Used": "Figma",
+    "Year": 2026,
+    "Branding Materials": "https://www.figma.com/design/8Zbgw9w7zLDgBoTrBWigSd/Wize--branding?node-id=558-87 [RU] \nhttps://www.figma.com/design/8Zbgw9w7zLDgBoTrBWigSd/Wize--branding?node-id=166-17 (creative exploration) [RU]  ",
+    "Design Files": "https://www.figma.com/design/8Zbgw9w7zLDgBoTrBWigSd/Wize--branding?node-id=701-175  (Website) [RU] ",
+    "Social Media & Ads templates": "https://www.figma.com/design/8Zbgw9w7zLDgBoTrBWigSd/Wize--branding?node-id=596-31  (smm templates)  [RU] \nhttps://www.figma.com/design/8Zbgw9w7zLDgBoTrBWigSd/Wize--branding?node-id=819-158 (ads)\\ [RU] ",
+    "Other": "https://www.figma.com/design/8Zbgw9w7zLDgBoTrBWigSd/Wize--branding?node-id=424-22 (Business cards) [RU] \nhttps://www.figma.com/design/8Zbgw9w7zLDgBoTrBWigSd/Wize--branding?node-id=648-10 (Presentation design) [RU] \n "
+  },
+  {
+    "Project Name": "Chalkie",
+    "General Info": "Print and sales collateral design project for a UK-based EdTech and AI company helping teachers create lessons and classroom resources more efficiently. The work focused on transforming Chalkie’s existing content and brand materials into a premium print-ready booklet for institutional outreach to senior education decision-makers such as school leaders, MAT heads, and district-level stakeholders.",
+    "Client Problem": "Chalkie was expanding from product growth into institutional sales and needed a polished, credible, high-end printed asset that could speak convincingly to C-suite and senior decision-makers in education. The challenge was not to invent new messaging from scratch, but to turn an existing Gamma presentation into a professional A4 booklet that felt modern, premium, trustworthy, and appropriate for serious B2B EdTech sales conversations.",
+    "My Solution": "Designed a premium print-ready booklet based on the client’s existing content, website, and brand identity. The direction emphasized clean layout, strong hierarchy, generous white space, bold data presentation, authentic education-focused imagery, and a polished editorial feel suitable for institutional buyers. The deliverables included a press-ready print version, editable working files, and a screen-optimized version for digital sharing.",
+    "Key Achievement / Result": "Delivered a polished print-ready sales asset for Chalkie’s institutional expansion, helping the company package its value proposition in a more credible and executive-friendly format for education-sector decision-makers. The project was completed and later referenced internally as a finished engagement with follow-up review requests.",
+    "Categories": "Print Design, Sales Collateral, Booklet Design, Presentation Design, B2B Marketing Materials, EdTech, AI",
+    "Aesthetic": "Premium, modern, clean, editorial, credible, warm, professional",
+    "Tools Used": "Figma",
+    "Year": 2026,
+    "Other": "https://www.figma.com/design/TF8iiWKpJ2dR1neW7eDrxM/Chalkie--brochure?node-id=53-2 (Impact Report booklet for C-level outreach)"
+  },
+  {
+    "Project Name": "Black Pine Spas",
+    "General Info": "Website design project for a US client. The work a focused on a spa/wellness website and moved through multiple phases, including design completion, component/state refinement, and transfer of Figma assets to the client’s workspace.",
+    "Client Problem": "The site design was outdated.",
+    "My Solution": "The team redesigned the website design in Figma, integrating the client’s photography, refining CTA emphasis, designing component states, improving the product-card/video behavior, and adapting mobile UI. The team also organized the file structure into `Components`, `Pages`, and `Drafts`, and supported transfer of the full design workspace to the client.",
+    "Key Achievement / Result": "The project progressed through several phases and reached a completed stage. The team also prepared the design assets in a way the client could receive and continue using in his own Figma environment.",
+    "Categories": "Web Design, UI/UX, Design Systems, Figma Handoff",
+    "Aesthetic": "polished photography integration",
+    "Tools Used": "Figma",
+    "Year": "2025–2026",
+    "Design Files": "https://www.figma.com/design/eS8zomlpHPRqGrW6FYxkE1/Black-pine-spas--website?node-id=116-2&p=f&t=47rbKfnfdEMz6GLY-0  (Website wireframes)\nhttps://www.figma.com/design/eS8zomlpHPRqGrW6FYxkE1/Black-pine-spas--website?node-id=205-834&t=2I8b5DAAIxQXku1Y-1  (Website)\nhttps://www.figma.com/design/eS8zomlpHPRqGrW6FYxkE1/Black-pine-spas--website?node-id=161-1910 (Website components)"
+  },
+  {
+    "Project Name": "Baum Zindech",
+    "General Info": "e-commerce project focused on tangible consumer products / industrial-design-oriented goods. The work centered on a new website and broader digital positioning for online sales.",
+    "Client Problem": "The existing brand and website direction were seen as too derivative of Bork and too dependent on a familiar “premium dark aesthetic.” The client also needed a more effective sales-oriented website approach, with stronger marketplace-like UX patterns, clearer product presentation, and a more scalable structure for short-term online sales growth. Budget optimization was also part of the challenge.",
+    "My Solution": "rethought the website strategy toward a more utilitarian, marketplace-inspired e-commerce structure focused on functionality, recognizable UX patterns, and direct sales performance. At the brand and art-direction level, we proposed moving away from borrowed luxury codes toward a more distinct architectural / engineering-led identity with lighter aesthetics, honesty, and product-depth storytelling. The concept also included richer product-card content, behind-the-scenes explanations, exploded views / technical storytelling, and even AI-assisted personalized visual content generation in product scenarios.",
+    "Key Achievement / Result": "Established a new strategic direction for the Baum Zindech website and brand presentation: from generic premium styling toward a more ownable engineering-driven e-commerce identity. The project also included prototyping work and appears to have reached completion, later moving into follow-up status internally.",
+    "Categories": "E-commerce, Website Strategy, UI/UX, Art Direction, Brand Positioning, Prototyping",
+    "Aesthetic": "Architectural, engineering-led, light, functional, premium, honest",
+    "Tools Used": "Figma, AI Tools",
+    "Year": "2025–2026",
+    "Design Files": "https://www.figma.com/design/zTgge1gVVfjZVSlpiQ4otR/Baum-Zindech--website?node-id=1111-963 (Website) [RU]"
+  },
+  {
+    "Project Name": "Homefig"
+  },
+  {
+    "Project Name": "Oralabx"
+  },
+  {
+    "Project Name": "Cardoo"
+  },
+  {
+    "Project Name": "Elena Rogova’s project"
+  },
+  {
+    "Project Name": "Onrise"
   }
 ]
